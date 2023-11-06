@@ -1,8 +1,5 @@
 ### Hi, i'm Ricardo Macedo!
 
-- 👨‍🎓 Bachelor's Degree in Civil Engineering (UFES)
-- 📝 I’m currently learning JavaScript/ReactJS
-
 <div align="center">
   <a href="https://ricmrs.github.io/curso-html-css">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricmrs&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
