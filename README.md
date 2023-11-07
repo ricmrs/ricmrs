@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://ricmrs.github.io/curso-html-css">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=ricmrs&theme=gotham&hide_border=true"/>
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=ricmrs&theme=gotham&hide_border=true&card_width=400"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ricmrs&show_icons=true&theme=gotham&hide_border=true&include_all_commits=true&count_private=true"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricmrs&layout=compact&hide_border=true&langs_count=7&theme=gotham"/>
   </a>
